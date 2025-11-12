@@ -1,0 +1,30 @@
+{
+  "SSC_Maths": {
+    "Aptitude": {
+      "Percentage": {
+        "Set1 sfdfgfdg sd": { "url": "https://forms.gle/form1", "isFree": false },
+        "Set2": { "url": "https://forms.gle/form2", "isFree": true }
+      },
+      "Profit_Loss": {
+        "Set1": { "url": "https://forms.gle/form4", "isFree": false }
+      }
+    },
+    "Reasoning": {
+      "Verbal": {
+        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
+      },
+      "Verbal1": {
+        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
+      },
+      "Verbal2": {
+        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
+      },
+      "Verbal3": {
+        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
+      },
+      "NonVerbal": {
+        "Set1": { "url": "https://forms.gle/form7", "isFree": true }
+      }
+    }
+  }
+}
