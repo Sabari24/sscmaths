@@ -10,10 +10,10 @@
       }
     },
     "Topic-wise": {
-      "Time & Work": {
+      "Time Work": {
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
-      "Profit & Loss": {
+      "Profit Loss": {
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
       "Mensuration": {
@@ -25,5 +25,6 @@
     }
   }
 }
+
 
 
