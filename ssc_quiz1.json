@@ -9,23 +9,21 @@
         "Set1": { "url": "https://forms.gle/form4", "isFree": false }
       }
     },
-    "Reasoning": {
-      "Verbal": {
+    "Topic-wise": {
+      "Time & Work": {
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
-      "Verbal1": {
+      "Profit & Loss": {
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
-      "Verbal2": {
+      "Mensuration": {
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
-      "Verbal3": {
-        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
-      },
-      "NonVerbal": {
+      "Data Interpretation": {
         "Set1": { "url": "https://forms.gle/form7", "isFree": true }
       }
     }
   }
 }
+
 
