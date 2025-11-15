@@ -22,7 +22,14 @@
       "Data Interpretation": {
         "Set1": { "url": "https://forms.gle/form7", "isFree": true }
       }
-    }
+    },
+"Exam-Wise": {
+      "SSC GD 2024": {
+        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
+      },
+      "SSC CGL 2024": {
+        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
+      }
   }
 }
 
