@@ -1,11 +1,11 @@
 {
   "SSC_Maths": {
-    "Aptitude": {
-      "Percentage": {
+    "Year-wise": {
+      "2024": {
         "Set1 sfdfgfdg sd": { "url": "https://forms.gle/form1", "isFree": false },
         "Set2": { "url": "https://forms.gle/form2", "isFree": true }
       },
-      "Profit_Loss": {
+      "2023": {
         "Set1": { "url": "https://forms.gle/form4", "isFree": false }
       }
     },
@@ -28,3 +28,4 @@
     }
   }
 }
+
