@@ -1,11 +1,6 @@
 {
   "SSC_Maths": {
 
-    "custom": {
-      "title": "Welcome to SSC Maths",
-      "description": "Please select a section to continue."
-    },
-
     "Year-wise": {
       "custom": {
         "title": "Year-wise Papers",
@@ -97,3 +92,4 @@
     }
   }
 }
+
