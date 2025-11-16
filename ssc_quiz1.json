@@ -1,33 +1,97 @@
 {
   "SSC_Maths": {
+
+    "custom": {
+      "title": "Welcome to SSC Maths",
+      "description": "Please select a section to continue."
+    },
+
     "Year-wise": {
+      "custom": {
+        "title": "Year-wise Papers",
+        "description": "Choose a year to access the sets."
+      },
+
       "2024": {
+        "custom": {
+          "title": "2024 Papers",
+          "description": "Attempt latest SSC Maths 2024 question sets."
+        },
+
         "Set1 sfdfgfdg sd": { "url": "https://forms.gle/form1", "isFree": false },
         "Set2": { "url": "https://forms.gle/form2", "isFree": true }
       },
+
       "2023": {
+        "custom": {
+          "title": "2023 Papers",
+          "description": "Attempt 2023 SSC Maths previous year sets."
+        },
+
         "Set1": { "url": "https://forms.gle/form4", "isFree": false }
       }
     },
+
     "Topic-wise": {
+
+      "custom": {
+        "title": "Topic-wise Practice",
+        "description": "Choose a topic to practice questions."
+      },
+
       "Time Work": {
+        "custom": {
+          "title": "Time & Work",
+          "description": "Important PYQs based on Time & Work."
+        },
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
+
       "Profit Loss": {
+        "custom": {
+          "title": "Profit & Loss",
+          "description": "Solve basic to advanced PYQs."
+        },
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
+
       "Mensuration": {
+        "custom": {
+          "title": "Mensuration",
+          "description": "Practice area, volume & surface PYQs."
+        },
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
+
       "Data Interpretation": {
+        "custom": {
+          "title": "Data Interpretation",
+          "description": "Attempt DI bar graph, pie chart & table sets."
+        },
         "Set1": { "url": "https://forms.gle/form7", "isFree": true }
       }
     },
+
     "Exam-Wise": {
+
+      "custom": {
+        "title": "Exam-Wise PYQs",
+        "description": "Select an exam to view its previous year sets."
+      },
+
       "SSC GD 2024": {
+        "custom": {
+          "title": "SSC GD 2024",
+          "description": "Solve SSC GD Maths 2024 PYQs."
+        },
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       },
+
       "SSC CGL 2024": {
+        "custom": {
+          "title": "SSC CGL 2024",
+          "description": "Solve SSC CGL 2024 Maths PYQs."
+        },
         "Set1": { "url": "https://forms.gle/form6", "isFree": true }
       }
     }
