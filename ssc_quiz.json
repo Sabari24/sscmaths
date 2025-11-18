@@ -9,7 +9,7 @@
         "Set4": { "url": "https://forms.gle/form3", "isFree": false },
         "Set5": { "url": "https://forms.gle/form3", "isFree": false }
       },
-}
+
       "Profit_Loss": {
         "Set1": { "url": "https://forms.gle/form4", "isFree": false },
         "Set2": { "url": "https://forms.gle/form5", "isFree": false }
@@ -17,4 +17,6 @@
     }
     }
   }
+}
+
 
