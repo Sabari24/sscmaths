@@ -1,8 +1,8 @@
 {
   "SSC_Maths": {
-    "Aptitude": {
-         "Test": {
-      "Percentage": {
+    "SSC CGL": {
+         "Year-wise PYQ": {
+      "CGL 2023 – Tier 1": {
         "Set1 sfdfgfdg sd": { "url": "https://forms.gle/form1", "isFree": false },
         "Set2": { "url": "https://forms.gle/form2", "isFree": true },
         "Set3": { "url": "https://forms.gle/form3", "isFree": false },
@@ -10,7 +10,7 @@
         "Set5": { "url": "https://forms.gle/form3", "isFree": false }
       },
 
-      "Profit_Loss": {
+      "CGL 2022 – Tier 1": {
         "Set1": { "url": "https://forms.gle/form4", "isFree": false },
         "Set2": { "url": "https://forms.gle/form5", "isFree": false }
       }
@@ -18,6 +18,3 @@
     }
   }
 }
-
-
-
