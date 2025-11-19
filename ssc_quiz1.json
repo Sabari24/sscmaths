@@ -1,43 +1,20 @@
 {
   "SSC_Maths": {
-    "Year-wise": {
-      "custom": {
-        "title": "Best SSC Maths Year-wise Revision",
-        "description": "Complete all SSC previous years' sets. Improve your score faster!"
+    "SSC CGL": {
+         "Year-wise PYQ": {
+      "CGL 2023 – Tier 1": {
+        "Set1 sfdfgfdg sd": { "url": "https://forms.gle/form1", "isFree": false },
+        "Set2": { "url": "https://forms.gle/form2", "isFree": true },
+        "Set3": { "url": "https://forms.gle/form3", "isFree": false },
+        "Set4": { "url": "https://forms.gle/form3", "isFree": false },
+        "Set5": { "url": "https://forms.gle/form3", "isFree": false }
       },
 
-      "2024": {
-        "Set1": { "url": "https://forms.gle/form1", "isFree": false },
-        "Set2": { "url": "https://forms.gle/form2", "isFree": true }
-      },
-
-      "2023": {
-        "Set1": { "url": "https://forms.gle/form4", "isFree": false }
+      "CGL 2022 – Tier 1": {
+        "Set1": { "url": "https://forms.gle/form4", "isFree": false },
+        "Set2": { "url": "https://forms.gle/form5", "isFree": false }
       }
-    },
-
-    "Topic-wise": {
-      "Time Work": {
-        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
-      },
-      "Profit Loss": {
-        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
-      },
-      "Mensuration": {
-        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
-      },
-      "Data Interpretation": {
-        "Set1": { "url": "https://forms.gle/form7", "isFree": true }
-      }
-    },
-
-    "Exam-Wise": {
-      "SSC GD 2024": {
-        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
-      },
-      "SSC CGL 2024": {
-        "Set1": { "url": "https://forms.gle/form6", "isFree": true }
-      }
+    }
     }
   }
 }
